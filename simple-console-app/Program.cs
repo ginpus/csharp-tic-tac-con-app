@@ -155,7 +155,7 @@ namespace simple_console_app
                             };
                             if (marker == matrix[2, i])
                             {
-                                horizontal1++;
+                                horizontal3++;
                             };
                             if (marker == matrix[i, 0])
                             {
@@ -173,6 +173,13 @@ namespace simple_console_app
                         if (diagonal == 3 || diagonalOposite == 3 || horizontal1 == 3 || horizontal2 == 3 || horizontal3 == 3 || vertical1 == 3 || vertical2 == 3 || vertical3 == 3)
                         {
                             Console.Write($"Player {player} won!");
+                            Console.ReadKey();
+                            gameNotOver = false;
+                        }
+                        else if (counter == matrix.Length + 1)
+                        {
+                            Console.Write("It is a draw!");
+                            Console.ReadKey();
                             gameNotOver = false;
                         }
                     }

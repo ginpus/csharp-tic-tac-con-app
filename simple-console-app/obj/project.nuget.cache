@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FoZeY1/1LIsR+Y4ZQCkkA+ks28/8dRBheFIZ0AQNdLCDDr0tilvrYGTl5Tny3Z0T18WhQMQEFubYsIWjbE487Q==",
+  "dgSpecHash": "PulUsS2ohtH55O2kJQML+cAxSf3h09ROitgg6N1KWrcx6TdePkvVdtQQVMZXY7gYn+VeWkJEUqRpQk5fhXWHsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\c# masterclass\\simple-console-app\\simple-console-app\\simple-console-app.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\c# masterclass\\csharp-tic-tac-con-app\\simple-console-app\\simple-console-app.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

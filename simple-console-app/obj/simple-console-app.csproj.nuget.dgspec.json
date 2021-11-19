@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\c# masterclass\\simple-console-app\\simple-console-app\\simple-console-app.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\c# masterclass\\csharp-tic-tac-con-app\\simple-console-app\\simple-console-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\c# masterclass\\simple-console-app\\simple-console-app\\simple-console-app.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\c# masterclass\\csharp-tic-tac-con-app\\simple-console-app\\simple-console-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\c# masterclass\\simple-console-app\\simple-console-app\\simple-console-app.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\c# masterclass\\csharp-tic-tac-con-app\\simple-console-app\\simple-console-app.csproj",
         "projectName": "simple-console-app",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\c# masterclass\\simple-console-app\\simple-console-app\\simple-console-app.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\c# masterclass\\csharp-tic-tac-con-app\\simple-console-app\\simple-console-app.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\c# masterclass\\simple-console-app\\simple-console-app\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\c# masterclass\\csharp-tic-tac-con-app\\simple-console-app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
