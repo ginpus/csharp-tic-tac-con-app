@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\bin\Debug\net5.0\simple-console-app.exe
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\bin\Debug\net5.0\simple-console-app.deps.json
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\bin\Debug\net5.0\simple-console-app.runtimeconfig.json
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\bin\Debug\net5.0\simple-console-app.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\bin\Debug\net5.0\simple-console-app.dll
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\bin\Debug\net5.0\ref\simple-console-app.dll
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\bin\Debug\net5.0\simple-console-app.pdb
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\obj\Debug\net5.0\simple-console-app.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\obj\Debug\net5.0\simple-console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\obj\Debug\net5.0\simple-console-app.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\obj\Debug\net5.0\simple-console-app.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\obj\Debug\net5.0\simple-console-app.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\obj\Debug\net5.0\simple-console-app.dll
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\obj\Debug\net5.0\ref\simple-console-app.dll
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\obj\Debug\net5.0\simple-console-app.pdb
+C:\Users\Administrator\Desktop\c# masterclass\simple-console-app\simple-console-app\obj\Debug\net5.0\simple-console-app.genruntimeconfig.cache
